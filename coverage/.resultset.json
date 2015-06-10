@@ -1,0 +1,58 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/rajeshsah/tutorial/Org/lib/org.rb": [
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/rajeshsah/tutorial/Org/lib/org/department_store.rb": [
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/rajeshsah/tutorial/Org/lib/org/balance_enquiry.rb": [
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/rajeshsah/tutorial/Org/lib/org/department.rb": [
+        null,
+        1,
+        1,
+        null,
+        1,
+        2,
+        2,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1433936162
+  }
+}
